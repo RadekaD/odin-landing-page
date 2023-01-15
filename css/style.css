@@ -217,4 +217,23 @@ body {
     color: #3882F6;
 }
 
+footer {
+    background-color: #1f2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
+   
+}
+
+footer p {
+    margin: 0;
+    color: #F9Faf8;
+    font-size: 18px;
+}
+
 
